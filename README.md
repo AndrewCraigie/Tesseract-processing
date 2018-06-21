@@ -1,7 +1,7 @@
 # Tesseract-processing
 Processing sketches featuring Tesseract geometry
 
-![tesseract_blue](https://github.com/AndrewCraigie/Tesseractprocessing/blob/master/tesseract_processing/data/tesseract_blue_03.gif)
+![tesseract](https://github.com/AndrewCraigie/Tesseractprocessing/blob/master/tesseract_processing/data/tesseract_blue_03.gif)
 
 The tesseract_processing sketch creates and displays a Tesseract. A number of interactive keyboard commands are included to alter the view, appearance and behaviour of the animation.
 
@@ -21,12 +21,12 @@ Values include "XU", "YU", "ZU", "XY", "YZ", "XZ". More than one rotation can be
 
 ![rotate_ortho](https://github.com/AndrewCraigie/Tesseract-processing/blob/master/tesseract_processing/data/rotateOrtho.gif) ![rotate_perspective](https://github.com/AndrewCraigie/Tesseract-processing/blob/master/tesseract_processing/data/rotatePerspective.gif)
 
-## Show Inner Faces
+### Show Inner Faces
 Toggle the 'f' key to turn on the visibility of 'inner faces'. Fill styles of all faces can be set in code.
 
 ![show_inner_faces](https://github.com/AndrewCraigie/Tesseract-processing/blob/master/tesseract_processing/data/showInnerFaces.png) ![show_inner_faces_false](https://github.com/AndrewCraigie/Tesseract-processing/blob/master/tesseract_processing/data/showInnerFacesFalse.png)
 
-## Show Points
+### Show Points
 Toggle the 's' key to turn on the display of shapes at the corners of the cubes.
 
 ![show_points](https://github.com/AndrewCraigie/Tesseract-processing/blob/master/tesseract_processing/data/showPoints.png)
