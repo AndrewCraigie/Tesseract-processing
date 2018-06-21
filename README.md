@@ -1,7 +1,7 @@
 # Tesseract-processing
 Processing sketches featuring Tesseract geometry
 
-![tesseract](https://github.com/AndrewCraigie/Tesseractprocessing/blob/master/tesseract_processing/data/tesseract_blue_03.gif)
+![tesseract](https://github.com/AndrewCraigie/Tesseract-processing/blob/master/tesseract_processing/data/tesseract_blue_03.gif)
 
 The tesseract_processing sketch creates and displays a Tesseract. A number of interactive keyboard commands are included to alter the view, appearance and behaviour of the animation.
 
